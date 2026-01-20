@@ -1,0 +1,18 @@
+
+.buttons{
+    display: inline;
+    margin: 0.3rem;
+}
+
+.counter-btn{
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: rgb(82, 140, 192);
+    color: white;
+    border: 1px solid rgb(38, 108, 170);
+    cursor: pointer;
+}
+
+.counter-btn:hover{
+    background-color: rgb(20, 126, 219);
+}

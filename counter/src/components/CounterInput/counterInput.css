@@ -1,0 +1,22 @@
+
+.count-input{
+    margin: 0.5rem;
+}
+
+
+input{
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background: rgb(47, 157, 162);
+    color: whitesmoke;
+    font-size: 1.5rem;
+}
+
+.count-input button{
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+    background-color: antiquewhite;
+    cursor: pointer;
+    width: 5%;
+}
