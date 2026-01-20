@@ -3,7 +3,7 @@ import React from "react";
 import "./welcome.css"
 
 function Welcome({isLoggedin, onLogout}){
-    console.log("Welcome", isLoggedin);
+    // console.log("Welcome", isLoggedin);
     return (
         isLoggedin && 
         (<div className="welcome">
