@@ -1,0 +1,24 @@
+
+.nav-list{
+    
+    display: flex;
+    flex-direction: row;
+    width: 300px; 
+    justify-content: space-between;
+
+}
+
+.nav-items{
+    list-style: none;
+    
+}
+
+.nav-item{
+    text-decoration: none;
+}
+
+.nav-item.active, .nav-item.active:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
